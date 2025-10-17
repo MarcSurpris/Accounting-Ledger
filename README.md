@@ -14,7 +14,6 @@ The application is built as a capstone project for Java development fundamentals
 * Home Screen: Main menu to add deposits, make payments, access the ledger, or exit.
 * Add Deposit: Record incoming funds with description, vendor, and positive amount.
 * Make Payment (Debit): Record outgoing funds with description, vendor, and negative amount.
-* 
 * Ledger Screen: View all transactions, deposits only, payments only, or access reports.
 * Reports Screen: Generate filtered reports including:
 
