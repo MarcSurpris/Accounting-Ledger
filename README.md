@@ -6,7 +6,7 @@
 This is a console-based Java application designed to manage a simple accounting ledger. 
 It allows users to record financial transactions (deposits and payments), view the ledger with various filters, and generate reports based on time periods, vendors, or custom criteria. 
 Transactions are stored in a CSV file for persistence, making it easy to track financial activities over time.
-The application is built as a capstone project for Java development fundamentals, demonstrating concepts such as file I/O, object-oriented programming, date/time handling, user input validation, and data filtering/sorting.
+This Capstone is demonstrating concepts such as file I/O, object-oriented programming, date/time handling, user input validation, and data filtering/sorting.
 
 
 **Features**
