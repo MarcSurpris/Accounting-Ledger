@@ -45,7 +45,7 @@ cd accounting-ledger-app
 2. Compile the Code:
 Compile the Java files using java:
 
-javac AccountingLedgerApp.java Transaction.java
+AccountingLedgerApp.java, Transaction.java
 
 3. Run the Application:
 Run the main class:
