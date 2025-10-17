@@ -30,7 +30,7 @@ The application is built as a capstone project for Java development fundamentals
 
 
 **Requirements**
-* Java 8 or higher (uses java.time package for date/time operations).
+* Java 17 or higher (uses java.time package for date/time operations).
 * No external libraries required; built with standard Java SDK.
 
 
@@ -91,13 +91,4 @@ transactions.csv: Auto-generated file for storing transactions (do not edit manu
 * Public repository.
 * Appropriate commit history (commit for each meaningful piece of work).
 * Includes this README.md with project description, screen details, and code snippets/examples.
-
-
-**Limitations**
-* No editing or deleting of existing transactions.
-* Assumes all inputs are in the current timezone; no manual date entry.
-* Error handling is basic (e.g., invalid amounts revert the operation).
-
-**Contributing**
-Feel free to fork and submit pull requests for improvements, such as adding balance calculations or export features.LicenseThis project is licensed under the MIT License. See LICENSE for details.
 
