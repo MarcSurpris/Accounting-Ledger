@@ -80,15 +80,3 @@ AccountingLedgerApp.java: Main application logic, menus, filtering, and file han
 Transaction.java: Data model for individual transactions with getters and CSV formatting.
 transactions.csv: Auto-generated file for storing transactions (do not edit manually).
 
-**Class Demonstration**
-* Duration: 10 minutes per student.
-* Steps:
-1. Run the application and demonstrate key screens/scenarios (e.g., adding transactions, viewing reports).
-2. Describe/show one interesting piece of code (e.g., custom search logic or date filtering).
-3. Answer questions from the audience.
-
-**GitHub Repository Requirements**
-* Public repository.
-* Appropriate commit history (commit for each meaningful piece of work).
-* Includes this README.md with project description, screen details, and code snippets/examples.
-
